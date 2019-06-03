@@ -1,4 +1,6 @@
-﻿[Devbridge Group užduoties](https://git.mif.vu.lt/Cutlet-Solutions/PSK/docs/blob/master/Task-Definition.pdf) sprendimo išeities tekstas.
+Kodas numigruotas iš [VU GitLab repozitorijos](https://git.mif.vu.lt/Cutlet-Solutions/PSK)
+
+[Devbridge Group užduoties](https://git.mif.vu.lt/Cutlet-Solutions/PSK/docs/blob/master/Task-Definition.pdf) sprendimo išeities tekstas.
 
 ## Backend'o pasileidimas
 
