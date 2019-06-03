@@ -1,5 +1,3 @@
-﻿[Devbridge Group užduoties](https://git.mif.vu.lt/Cutlet-Solutions/PSK/docs/blob/master/Task-Definition.pdf) sprendimo išeities tekstas.
-
 ## Backend'o pasileidimas
 
   - Parsisiųskite repozitoriją (`git clone https://git.mif.vu.lt/Cutlet-Solutions/PSK/code.git`)

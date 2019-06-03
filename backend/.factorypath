@@ -1,0 +1,6 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/javaee-web-api/7.0/javaee-web-api-7.0-javadoc.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/h2database/h2/1.4.195/h2-1.4.195.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.16.16/lombok-1.16.16.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
