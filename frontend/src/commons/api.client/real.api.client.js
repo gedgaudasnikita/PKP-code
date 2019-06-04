@@ -25,6 +25,7 @@ async function _makeRequest(uri, method, query, body, headers) {
         if (e.response && e.response.status === 401) {
             return global._authService.logout();
         } else {
+            alert('Įvyko klaida. Pabandykite perkrautį puslapį arba susisiekite su administratoriumi.')
             throw e;
         }
     }

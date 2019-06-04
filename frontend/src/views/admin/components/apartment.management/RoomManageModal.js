@@ -82,6 +82,7 @@ class RoomManageModal extends Component {
                                                 transparent
                                                 focus
                                                 fluid
+                                                type='number'
                                                 autoComplete="new-password"
                                                 defaultValue={room.roomNumber} 
                                                 onBlur={
